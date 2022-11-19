@@ -1,4 +1,10 @@
-# ejemplo_vuetify
+# Prueba_modulo_5
+Host de  la pagina
+https://pruebacursoalfaweb.web.app
+
+Credencial de login
+Usuario:    juanito@perez.cl
+Contraseña: 123456
 
 ## Project setup
 ```
